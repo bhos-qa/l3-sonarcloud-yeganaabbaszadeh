@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad6146c-02e3-491e-96f1-71e1a10a4972" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/permissionManager.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab3_app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lab3_app/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5ad6146c-02e3-491e-96f1-71e1a10a4972" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664191736467</updated>
       <workItem from="1664191738025" duration="1173000" />
-      <workItem from="1664216407475" duration="6364000" />
+      <workItem from="1664216407475" duration="6680000" />
     </task>
     <servers />
   </component>
