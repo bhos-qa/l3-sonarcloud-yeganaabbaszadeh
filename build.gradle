@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id "org.sonarqube" version "3.4.0.2513"
+    id 'jacoco'
 }
 
 group 'org.lab3_app'
@@ -25,4 +26,19 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+//        xml.outputLocation = layout.buildDirectory.dir('jacocoXml')
+//        csv.required = false
+//        html.outputLocation = layout.buildDirectory.dir('jacocoHtml')
+    }
+}
+
+jacoco {
+    toolVersion = "0.8.8"
+    reportsDirectory = layout.buildDirectory.dir('build/reports/jacoco')
 }
