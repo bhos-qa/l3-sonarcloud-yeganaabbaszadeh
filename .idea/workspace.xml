@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ad6146c-02e3-491e-96f1-71e1a10a4972" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/lab3_app/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/lab3_app/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab3_app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab3_app/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/lab3_app/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/lab3_app/PermissionManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +139,8 @@
       <workItem from="1664347670479" duration="1249000" />
       <workItem from="1664350790478" duration="447000" />
       <workItem from="1664362581082" duration="597000" />
+      <workItem from="1664363391887" duration="510000" />
+      <workItem from="1664425146079" duration="1113000" />
     </task>
     <servers />
   </component>

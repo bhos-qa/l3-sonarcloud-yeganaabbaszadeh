@@ -31,10 +31,10 @@ test {
 
 jacocoTestReport {
     reports {
-        xml.enabled true
-//        xml.outputLocation = layout.buildDirectory.dir('jacocoXml')
-//        csv.required = false
-//        html.outputLocation = layout.buildDirectory.dir('jacocoHtml')
+//        xml.enabled true
+        xml.outputLocation = layout.buildDirectory.dir('jacocoXml')
+        csv.required = false
+        html.outputLocation = layout.buildDirectory.dir('jacocoHtml')
     }
 }
 
